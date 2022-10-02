@@ -15,7 +15,7 @@ console.log(a);
 const constante = "soy una constante";
 console.log(constante);
 
-//constante = "intento cambiar la constante";
+// constante = "intento cambiar la constante";
 
 //////////////////////
 
@@ -30,3 +30,7 @@ let variablelet = "soy una LET"
         let variablelet = "soy la segunda LET avariada"
     }
 console.log(variablelet);
+
+/////////////////////
+
+console.log(typeof variablelet)
